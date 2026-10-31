@@ -1,13 +1,10 @@
-<a href="https://gmannn.netlify.app/hire"><img src="banner.svg" alt="Mann Gupta, AI Engineer and Full-Stack Developer. Open for freelance." width="100%"></a>
+<a href="https://gmannn.netlify.app"><img src="banner.svg" alt="Mann Gupta, AI Engineer and Full-Stack Developer." width="100%"></a>
 
 **AI engineer and full-stack developer.** I build AI SaaS MVPs, LLM agents and fast Next.js products, from spec to production.
 
 Founding engineer on three shipped products. One of them is an LLM agent that removed about 70% of manual lead-response work, with a guardrail that hands off to a human when the model is unsure.
 
-**Open for freelance projects.**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-gmannn.netlify.app-111?style=flat-square)](https://gmannn.netlify.app)
-[![Hire me](https://img.shields.io/badge/Hire_me-%2Fhire-D4F534?style=flat-square&labelColor=111)](https://gmannn.netlify.app/hire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gupta--mann-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-mann)
 [![Email](https://img.shields.io/badge/Email-manngupta923%40gmail.com-444?style=flat-square&logo=gmail&logoColor=white)](mailto:manngupta923@gmail.com)
 
@@ -42,8 +39,3 @@ More case studies: [gmannn.netlify.app/case-studies](https://gmannn.netlify.app/
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-## Work with me
-
-Send a short description of what you want to build. I will tell you honestly if I am the right fit.
-Fixed scope and price, weekly demos, clean handover. Details: [gmannn.netlify.app/hire](https://gmannn.netlify.app/hire)

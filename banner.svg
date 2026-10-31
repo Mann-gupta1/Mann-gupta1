@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Mann Gupta, AI Engineer and Full-Stack Developer. Open for freelance.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Mann Gupta, AI Engineer and Full-Stack Developer.">
   <rect width="1200" height="280" fill="#0d0d0d"/>
   <g stroke="#1f1f1f" stroke-width="1">
     <path d="M0 70H1200M0 140H1200M0 210H1200M300 0V280M600 0V280M900 0V280"/>
   </g>
   <rect x="64" y="56" width="10" height="10" fill="#D4F534"/>
-  <text x="88" y="66" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#D4F534">OPEN FOR FREELANCE</text>
+  <text x="88" y="66" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#D4F534">AI ENGINEER</text>
   <text x="64" y="150" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Mann Gupta</text>
   <text x="64" y="196" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#bdbdbd">AI Engineer &amp; Full-Stack Developer</text>
-  <text x="64" y="238" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#8a8a8a">AI SaaS MVPs  ·  LLM agents  ·  Next.js products  ·  gmannn.netlify.app/hire</text>
+  <text x="64" y="238" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#8a8a8a">LLM agents  ·  RAG  ·  Next.js  ·  gmannn.netlify.app</text>
   <circle cx="1040" cy="140" r="84" fill="none" stroke="#D4F534" stroke-width="2"/>
   <circle cx="1040" cy="140" r="48" fill="none" stroke="#D4F534" stroke-width="2" opacity=".5"/>
   <circle cx="1040" cy="140" r="10" fill="#D4F534"/>
