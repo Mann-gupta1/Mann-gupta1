@@ -1,4 +1,4 @@
-# Hi, I'm Mann Gupta
+<a href="https://gmannn.netlify.app/hire"><img src="banner.svg" alt="Mann Gupta, AI Engineer and Full-Stack Developer. Open for freelance." width="100%"></a>
 
 **AI engineer and full-stack developer.** I build AI SaaS MVPs, LLM agents and fast Next.js products, from spec to production.
 
